@@ -12,5 +12,21 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+## Running tests
+
+The backend is powered by FastAPI and ships with a small pytest suite.
+
+1. Install requirements (including `pytest`):
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the tests from the repository root:
+
+```bash
+pytest
+```
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
